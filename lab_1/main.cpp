@@ -11,7 +11,7 @@ void setup() {
   pinMode(led_red, OUTPUT);
   pinMode(led_yellow, OUTPUT);
   pinMode(led_green, OUTPUT);
-
+  
   pinMode(buttonStart, INPUT_PULLUP);
   pinMode(buttonStop, INPUT_PULLUP);
 }
